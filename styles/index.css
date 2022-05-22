@@ -1,0 +1,9 @@
+.quadrado {
+    position: absolute;
+    height: 50px;
+    width: 50px;
+    background-color: red;
+    border-style: dashed;
+    border-color: black;
+    transition: ease-in-out 100ms;
+}
